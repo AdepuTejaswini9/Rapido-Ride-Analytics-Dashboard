@@ -1,0 +1,26 @@
+pickup_location,drop_location,zone_pair
+Pune,Delhi,Pune → Delhi
+Chennai,Hyderabad,Chennai → Hyderabad
+Delhi,Bengaluru,Delhi → Bengaluru
+Pune,Hyderabad,Pune → Hyderabad
+Chennai,Bengaluru,Chennai → Bengaluru
+Bengaluru,Delhi,Bengaluru → Delhi
+Hyderabad,Delhi,Hyderabad → Delhi
+Bengaluru,Hyderabad,Bengaluru → Hyderabad
+Bengaluru,Bengaluru,Bengaluru → Bengaluru
+Chennai,Pune,Chennai → Pune
+Pune,Pune,Pune → Pune
+Delhi,Chennai,Delhi → Chennai
+Chennai,Delhi,Chennai → Delhi
+Delhi,Pune,Delhi → Pune
+Bengaluru,Chennai,Bengaluru → Chennai
+Hyderabad,Pune,Hyderabad → Pune
+Bengaluru,Pune,Bengaluru → Pune
+Chennai,Chennai,Chennai → Chennai
+Hyderabad,Chennai,Hyderabad → Chennai
+Delhi,Delhi,Delhi → Delhi
+Pune,Bengaluru,Pune → Bengaluru
+Pune,Chennai,Pune → Chennai
+Hyderabad,Bengaluru,Hyderabad → Bengaluru
+Delhi,Hyderabad,Delhi → Hyderabad
+Hyderabad,Hyderabad,Hyderabad → Hyderabad
