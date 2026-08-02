@@ -269,7 +269,7 @@ This dashboard enables Rapido stakeholders to:
 
 ## 👤 Author
 
-**[Your Name]**
+**Adepu Tejaswini**
 Aspiring Data Analyst | SQL | Excel | Power BI
 
 📌 GitHub Repository:
