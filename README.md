@@ -273,7 +273,7 @@ This dashboard enables Rapido stakeholders to:
 Aspiring Data Analyst | SQL | Excel | Power BI
 
 📌 GitHub Repository:
-[Add your repo link here]
+https://github.com/AdepuTejaswini9/Rapido-Ride-Analytics-Dashboard.git
 
 ---
 
